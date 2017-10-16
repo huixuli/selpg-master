@@ -57,10 +57,6 @@
    ![7.1](/图片/7.1.png)
    ![7.2](/图片/7.2.png)
    
-<<<<<<< HEAD
-   如图所示，当参数没有错误时，正常打印页数，而当参数出现错误，显示错误信息并将错误信息输入到error.txt文档中。
-=======
    如图所示，当参数没有错误时，正常打印页数，而当参数出现错误，显示错误信息并将错误信息输入到error.txt文档中
->>>>>>> f48b0e7234dea9aef4ef48579f36f8052a30fb54
 
   [1]: https://www.ibm.com/developerworks/cn/linux/shell/clutil/index.html
