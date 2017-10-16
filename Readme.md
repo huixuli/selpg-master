@@ -29,8 +29,12 @@
   
   **4  ./selpg -s=0 -e=3 -l=5 -d=lp1 text.txt**
   
+<<<<<<< HEAD
     ![4](/图片/4.png)
     
+=======
+  ![4](/图片/4.png)
+>>>>>>> f48b0e7234dea9aef4ef48579f36f8052a30fb54
 如图所示，页数正常打印，并且显示了它在lp1中的队列。
 
   **5  ./selpg -s=0 -e=3 <text.txt**
@@ -53,6 +57,10 @@
    ![7.1](/图片/7.1.png)
    ![7.2](/图片/7.2.png)
    
+<<<<<<< HEAD
    如图所示，当参数没有错误时，正常打印页数，而当参数出现错误，显示错误信息并将错误信息输入到error.txt文档中。
+=======
+   如图所示，当参数没有错误时，正常打印页数，而当参数出现错误，显示错误信息并将错误信息输入到error.txt文档中
+>>>>>>> f48b0e7234dea9aef4ef48579f36f8052a30fb54
 
   [1]: https://www.ibm.com/developerworks/cn/linux/shell/clutil/index.html
